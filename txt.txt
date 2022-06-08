@@ -1,0 +1,4 @@
+// npm init
+// npm install express dotenv mongoose cors helmet
+// npm install --save-dev nodemon
+// npm install cors
